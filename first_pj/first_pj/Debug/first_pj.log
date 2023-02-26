@@ -1,3 +1,3 @@
 ﻿  main.cpp
-d:\repo\cpp_learn_pj\first_pj\first_pj\main.cpp(20): warning C4101: “q”: 未引用的局部变量
+  LINK : 没有找到 D:\repo\cpp_learn_pj\first_pj\Debug\first_pj.exe 或上一个增量链接没有生成它；正在执行完全链接
   first_pj.vcxproj -> D:\repo\cpp_learn_pj\first_pj\Debug\first_pj.exe
